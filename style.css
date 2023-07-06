@@ -1,3 +1,54 @@
-body{
-    padding-left: 1.5rem;
+.body{
+    background-color: rgb(235, 170, 165);
+    padding: 0;
+    margin: 0;
+
 }
+/*Styling the code  1st Heading*/
+.p{
+    border: 1rem;
+    align-items: center;
+    margin-left: 50%;
+    margin-bottom: 100px;
+}
+.heading-1{
+    font-size: larger;
+    /*font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    */
+    text-align: center;
+    border: 3px;
+    font-display: 100%;
+}
+.sub-heading{
+    border: 1px solid bisque;
+     background-color: rgba(93, 255, 201, 0.301);
+     font-style: normal;
+     font-family: 'Times New Roman', Times, serif;
+     margin: 20px;
+}
+.first{
+ 
+  width: 85%;
+  border: 2.5px solid rgb(196, 167, 167);
+  padding: 50px;
+  background-color: beige;
+  border-color: #ccc;
+  margin: 20px;
+  align-items: center;
+}
+.first.p{
+    margin-left: 10%;
+
+}
+.table{
+    align-items: center;
+    font-size: large;
+    margin-block: calc(100-5);
+}
+.detail{
+  border: 1px solid #ccc;
+    background-color: rgba(230, 212, 212, 0.788);
+  display: block;
+}
+
+
